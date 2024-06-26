@@ -1,4 +1,4 @@
-# This function adds two numbers
+# This function adds two numbers
 def add(x, y):
     return x + y
 
@@ -52,4 +52,4 @@ while True:
         if next_calculation == "no":
           break
     else:
-        print("Invalid Input")[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+        print("Invalid Input")
